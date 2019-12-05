@@ -1,0 +1,11 @@
+{
+  "name": "mysql-crud-app",
+  "version": "1.0.0",
+  "description": "sql node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clark drishinski",
+  "license": "ISC"
+}
